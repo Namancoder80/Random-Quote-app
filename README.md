@@ -1,4 +1,5 @@
 # Random-Quote-app
+<img width="640" alt="Screenshot 2023-12-02 144404" src="https://github.com/Namancoder80/Random-Quote-app/assets/96739382/9de2133a-0488-4d11-bf81-4a61e1943dcf">
 # Unity Quote App
 
 ## Overview
